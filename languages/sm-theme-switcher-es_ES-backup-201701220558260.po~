@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SM Theme Switcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-22 05:52+0000\n"
+"PO-Revision-Date: 2017-01-22 05:57+0000\n"
+"Last-Translator: Bryan Contreras <kennedy1991@hotmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-sm-theme-switcher-admin.php:152
+msgid "Phone"
+msgstr ""
+
+#: admin/class-sm-theme-switcher-admin.php:160
+msgid "Tablet"
+msgstr ""
+
+#: admin/class-sm-theme-switcher-admin.php:168
+msgid "Desktop"
+msgstr ""
+
+#. Name of the plugin
+msgid "SM Theme Switcher"
+msgstr "SM Theme Switcher"
+
+#. Description of the plugin
+msgid "Assign a theme for each device type"
+msgstr "Asignar un tema para cada tipo de dispositivo"
+
+#. URI of the plugin
+msgid "http://itsoft.org.ve/wordpress/plugins/sm-theme-switcher/"
+msgstr "http://itsoft.org.ve/wordpress/plugins/sm-theme-switcher/"
+
+#. Author of the plugin
+msgid "Bryan Contreras"
+msgstr "Bryan Contreras"
+
+#. Author URI of the plugin
+msgid "https://www.facebook.com/bryan3561"
+msgstr "https://www.facebook.com/bryan3561"
+
+#: admin/setting-frontend.php:3
+msgid "SM Theme Switcher Settings."
+msgstr "SM Theme Switcher Configuración."
+
+#: admin/setting-frontend.php:15
+msgid "NOTE"
+msgstr "NOTA"
+
+#: admin/setting-frontend.php:16
+msgid "If you do not select a topic, assign the default theme"
+msgstr "Si no selecciona un tema, se asignará el tema predeterminado"
+
+#: admin/class-sm-theme-switcher-admin.php:145
+msgid "Select a theme for each device type."
+msgstr "Seleccione un tema para cada tipo de dispositivo."
