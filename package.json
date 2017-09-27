@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/bryan3561/SMThemeSwitcher/issues"
   },
-  "homepage": "https://github.com/bryan3561/SMThemeSwitcher#readme"
+  "homepage": "https://github.com/bryan3561/SMThemeSwitcher#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  }
 }
