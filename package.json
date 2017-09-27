@@ -1,0 +1,22 @@
+{
+  "name": "sm-theme-switcher",
+  "version": "1.0.0",
+  "description": "Plugin de WordPress Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryan3561/SMThemeSwitcher.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "Bryan Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryan3561/SMThemeSwitcher/issues"
+  },
+  "homepage": "https://github.com/bryan3561/SMThemeSwitcher#readme"
+}
