@@ -113,6 +113,64 @@ div#mainContainer {
 						max-width: 100%;
 						height: auto;
 					}
+
+					& .relatedArticle {
+						height: 120px;
+						padding-left: 30px;
+						border-left: 3px solid #aaa;
+						background-color: #eee;
+						margin-bottom: 1rem;
+
+						& div.relatedTitle {
+							margin-left: -30px;
+							padding: 0 30px;
+							background-color: #ddd;
+							display: block;
+							font-size: 1.3rem;
+							border-bottom: 1px solid #aaa;
+							height: 30px;
+							line-height: 30px;
+						}
+
+						& div.relatedArticleContent {
+							display: flex;
+							flex-wrap: nowrap;
+							height: 90px;
+							border-bottom: 1px solid #aaa;
+							border-right: 1px solid #aaa;
+
+
+							& div.relatedImage {
+								min-width: 90px;
+								height: 90px;
+
+								& img {
+									width: 100%;
+									max-width: 100%;
+								}
+							}
+
+							& div.relatedDescription {
+								padding: 0.5rem;
+								background-color: white;
+								& a {
+									color: #373c3d;
+									font-size: 1.5rem;
+									line-height: 1.5rem;
+								}
+							}
+						}
+
+					}
+				}
+
+				& div.adCode {
+					border-radius: 5px;
+					background-color: #eee;
+					margin-bottom: 15px;
+					min-height: 90px;
+					line-height: 90px;
+					text-align: center;
 				}
 			}
 
