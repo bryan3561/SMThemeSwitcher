@@ -1,1 +1,1 @@
-!function(){jQuery("h2").text("jejej")}();
+!function(e){e.fn.extend({bkc_gallery:function(a){var i={images:[]};e.extend(i,a);for(var g in i.images)image_container=e("<div>"),image=e("<img>"),image.attr("src",i.images[g]),image.appendTo(image_container),image_container.appendTo(e(this))}});for(var a=[],i=1;i<=5;i++)a[i]="./assets/img/"+i+".jpg";e("#gallery").bkc_gallery({images:a})}(jQuery);
